@@ -5,15 +5,15 @@ Welcome to my little corner of GitHub! I’ve always been passionate about techn
 ## 🛠️ What I’ve Been Working On:
 
 ### osTicket (Help Desk Ticketing System)
-- **Getting Started**: Installing and setting up osTicket from scratch.  
+- **[Getting Started](https://github.com/Jalal-Hatamleh/osTicket-Setup)**: Installing and setting up osTicket from scratch.  
 
 ### Microsoft Azure
-- **Building in the Cloud**: Creating virtual machines (VMs) in Azure and managing them.  
-- **Hybrid Solutions**: Setting up on-premises Active Directory inside Azure VMs.  
-- **Keeping it Secure**: Using Network Security Groups (NSGs) and digging into network protocols.
+- **[Building in the Cloud](https://github.com/Jalal-Hatamleh/Creating-VMs-in-Azure)**: Creating virtual machines (VMs) in Azure and managing them.  
+- **[Hybrid Solutions](https://github.com/Jalal-Hatamleh/AD-Azure)**: Setting up on-premises Active Directory inside Azure VMs.  
+- **[Keeping it Secure](https://github.com/Jalal-Hatamleh/Azure-NSG)**: Using Network Security Groups (NSGs) and digging into network protocols.
 
 ### VPNs
-- **Staying Safe Online**: Setting up and using ProtonVPN to protect your connection.
+- **[Staying Safe Online](https://github.com/your-username/vpn-projects#protonvpn)**: Setting up and using ProtonVPN to protect your connection.
 
 ---
 
