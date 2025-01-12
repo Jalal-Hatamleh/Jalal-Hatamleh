@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Jalal – IT Professional & Technology Enthusiast 😊
 
-<!--
-**Jalal-Hatamleh/Jalal-Hatamleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an experienced IT professional, I enjoy working with various technologies and solving complex problems. Below are some of my key projects and areas of expertise:
 
-Here are some ideas to get you started:
+## 🚀 IT Projects & Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ **osTicket (Help Desk Ticketing System)**
+- **Installation & Setup**: Mastered the prerequisites and smooth installation process of osTicket.
+
+### 🌐 **Microsoft Azure** 
+- **Virtual Machines**: Expertise in creating and managing Azure VMs for scalable cloud solutions.
+- **Active Directory Integration**: Configuring on-premises Active Directory within Azure VMs for seamless hybrid environments.
+- **Network Security**: Utilizing Network Security Groups (NSGs) and inspecting network protocols to secure Azure deployments.
+
+### 🔐 **VPN Technologies**
+- **ProtonVPN Setup**: Setting up and securing VPN connections with ProtonVPN to enhance privacy and network security.
+
+I'm always exploring new technologies and staying up to date with the latest trends in IT. Feel free to connect if you're interested in collaborating or discussing tech!
