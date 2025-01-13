@@ -13,7 +13,7 @@ Welcome to my little corner of GitHub! I’ve always been passionate about techn
 - **[Keeping it Secure](https://github.com/Jalal-Hatamleh/Azure-NSG)**: Using Network Security Groups (NSGs) and digging into network protocols.
 
 ### VPNs
-- **[Staying Safe Online](https://github.com/your-username/vpn-projects#protonvpn)**: Setting up and using ProtonVPN to protect your connection.
+- **[Staying Safe Online](https://github.com/Jalal-Hatamleh/Proton-VPN)**: Setting up and using ProtonVPN to protect your connection.
 
 ---
 
